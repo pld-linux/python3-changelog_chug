@@ -5,7 +5,7 @@
 Summary:	A parser for project Change Log documents
 Name:		python3-%{module}
 Version:	0.0.3
-Release:	1
+Release:	2
 License:	AGPL v3+
 Group:		Libraries/Python
 Source0:	https://pypi.debian.net/changelog-chug/changelog_chug-%{version}.tar.gz
